@@ -3,7 +3,7 @@
 
 #### **[My Portfolio](https://leodimatt.me)**
 
-- Age: 14
+- Age: 15
 - Sex: yes
 - wait you're only 14?: Yes. I am.
 - 🌱 I’m currently learning Rust
