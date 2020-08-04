@@ -16,6 +16,7 @@
 [<img align="left" alt="Ladrium | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ladrium&show_icons=true&hide_border=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
