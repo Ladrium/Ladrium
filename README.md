@@ -1,4 +1,4 @@
-## Hey there 👋! I'm Leonardo - [Ladrium][website] 
+## Hey there 👋! I'm [Leonardo][website] - Ladrium
 
 #### **[My Portfolio](https://leodimatt.me)**
 
