@@ -7,9 +7,8 @@
 - 🌐 I speak German and English
 - 📫 you can always reach me on my email: me@leodimatt.me
 - I am a self taught full stack Web and Software Developer
-- I have experience in JavaScript, TypeScript, Python, Java
+- I am experienced in JavaScript, TypeScript, Python and Java
 
----
 
 ### Contact me
 [<img align="left" alt="leodimatt.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
