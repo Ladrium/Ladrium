@@ -10,4 +10,4 @@
 - I have experience in JavaScript, TypeScript, Python, Java
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Ladrium&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
