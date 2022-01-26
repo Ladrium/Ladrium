@@ -2,7 +2,7 @@
 
 #### **[My Portfolio](https://leodimatt.me)**
 
-- Age: 15
+- Age: 16
 - 🌱 I’m currently learning Rust
 - 🌐 I speak German and English
 - 📫 you can always reach me on my email: me@leodimatt.me
