@@ -6,10 +6,6 @@ Currently, I am focusing on expanding my knowledge in software development, spec
 On my GitHub profile, you will find a variety of projects that showcase my development skills and experiences. Feel free to check them out and leave any feedback or suggestions.
 
 Feel Free to contact me on [Instagram: <img alt="leo.istcool | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/leo.istcool/)
-
-<br/>
-<br/>
-
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Ladrium&show_icons=true&hide_border=true&theme=tokyonight"/>
 <br/>
