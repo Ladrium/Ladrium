@@ -1,4 +1,4 @@
-Welcome to my Profile 💻!
+# Welcome to my Profile 🚀!
 My name is Leonardo Di Matteo and I am a 17-year-old student with a passion for sports and a strong interest in software development. I have experience in web development, specifically with Javascript/TypeScript, HTML5/CSS3, and Vue.
 
 Currently, I am focusing on expanding my knowledge in software development, specifically with Python 🐍 and Rust 🦀. I am always looking for new challenges and opportunities to learn and grow as a developer.
